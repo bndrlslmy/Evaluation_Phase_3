@@ -9,6 +9,11 @@
 # Overview
 This project involves the configuration of three routers (Router0, Router1, Router2) and associated switches and PCs to establish a specified network topology. The configurations are aimed at creating a structured network environment for testing and development purposes.
 
+# Contributions
+Bander Saeed ALsolami
+1935181
+
+
 # Configuration Details
 ## Router0 Configuration
 Hostname: R0
@@ -104,6 +109,3 @@ Test the configurations as specified in the 'Testing Setup' section for each rou
 
 Perform the final test using SSH from PC0 to R2 and document the outcome.
 
-# Contributions
-Bander Saeed ALsolami
-1935181
